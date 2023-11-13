@@ -6,7 +6,7 @@ Java Developer and Gamer
 
 I've been learning code for 3 year, and having so much fun.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Thailand.
 * ✉️  You can contact me at [peraphatsamngamya@gmail.com](mailto:peraphatsamngamya@gmail.com)
 * 🧠  I'm learning HTML JavaScript Python
 
