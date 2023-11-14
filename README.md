@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+My+name+is;PeraPhat+Samngamya;" />
 </h1>
 <div align="center">
-<img src="rainbow.png" width=1000px></img><br>
+<img src="rainbow.png" width=1000px height=10px></img><br>
 Java Developer and Gamer<br>
-<img src="rainbow.png" width=1000px></img><br>
+<img src="rainbow.png" width=1000px height=10px></img><br>
 </div>
 <div align="center">
 I've been learning code for 3 year, and having so much fun.
@@ -17,13 +17,13 @@ I've been learning code for 3 year, and having so much fun.
 src="https://img.shields.io/github/followers/crave6948?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 <div align="center">
-<img src="rainbow.png" width=1000px></img>
+<img src="rainbow.png" width=1000px height=20px></img>
 </div>
 
 <div align="center"> 
 
 ### Skills
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:peraphatsamngamya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
