@@ -9,9 +9,9 @@ Java Developer and Gamer<br>
 <div align="center">
 I've been learning code for 3 year, and having so much fun.
 
-🌍  I'm based in Thailand. 
-✉️  You can contact me at [peraphatsamngamya@gmail.com](mailto:peraphatsamngamya@gmail.com) 
-🧠  I'm learning HTML JavaScript Python 
+🌍  I'm based in Thailand. <br>
+✉️  You can contact me at [peraphatsamngamya@gmail.com](mailto:peraphatsamngamya@gmail.com) <br>
+🧠  I'm learning HTML JavaScript Python <br>
 
 <a href="https://www.github.com/crave6948" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/crave6948?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
