@@ -17,7 +17,7 @@ I've been learning code for 3 year, and having so much fun.
 src="https://img.shields.io/github/followers/crave6948?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 <div align="center">
-======================================================================
+<img src="./giphy.gif"></img>
 </div>
 
 <div align="center"> 
