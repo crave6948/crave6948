@@ -1,27 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+My+name+is;Moss;" />
-</h1>
-<div align="center">
-<img src="rainbow.png" width=1000px height=10px></img><br>
-Java Developer and Gamer<br>
-<img src="rainbow.png" width=1000px height=10px></img><br>
-</div>
-<div align="center">
-I've been learning code for 3 year, and having so much fun.
-
-🌍  I'm based in Thailand. <br>
-✉️  You can contact me at <a href="mailto:peraphatsamngamya@gmail.com">
-    peraphatsamngamya@gmail.com
-  </a> <br>
-🧠  I'm learning HTML JavaScript Python <br>
-
-<a href="https://www.github.com/crave6948" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/crave6948?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</div>
-<div align="center">
-<img src="rainbow.png" width=1000px height=20px></img>
-</div>
-
 <div align="center"> 
 
 ### Skills
